@@ -10,7 +10,6 @@ namespace Football
     {
         public Coach(string name, int age) : base(name, age)
         {
-            Name = name;
         }
     }
 }
