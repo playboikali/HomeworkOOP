@@ -1,0 +1,15 @@
+D:\Download\Uni\Programming\OOP\Football\bin\Debug\net7.0\Football.exe
+D:\Download\Uni\Programming\OOP\Football\bin\Debug\net7.0\Football.deps.json
+D:\Download\Uni\Programming\OOP\Football\bin\Debug\net7.0\Football.runtimeconfig.json
+D:\Download\Uni\Programming\OOP\Football\bin\Debug\net7.0\Football.dll
+D:\Download\Uni\Programming\OOP\Football\bin\Debug\net7.0\Football.pdb
+D:\Download\Uni\Programming\OOP\Football\obj\Debug\net7.0\Football.csproj.AssemblyReference.cache
+D:\Download\Uni\Programming\OOP\Football\obj\Debug\net7.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Uni\Programming\OOP\Football\obj\Debug\net7.0\Football.AssemblyInfoInputs.cache
+D:\Download\Uni\Programming\OOP\Football\obj\Debug\net7.0\Football.AssemblyInfo.cs
+D:\Download\Uni\Programming\OOP\Football\obj\Debug\net7.0\Football.csproj.CoreCompileInputs.cache
+D:\Download\Uni\Programming\OOP\Football\obj\Debug\net7.0\Football.dll
+D:\Download\Uni\Programming\OOP\Football\obj\Debug\net7.0\refint\Football.dll
+D:\Download\Uni\Programming\OOP\Football\obj\Debug\net7.0\Football.pdb
+D:\Download\Uni\Programming\OOP\Football\obj\Debug\net7.0\Football.genruntimeconfig.cache
+D:\Download\Uni\Programming\OOP\Football\obj\Debug\net7.0\ref\Football.dll
